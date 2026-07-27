@@ -2,7 +2,9 @@
 
 Welcome to my cybersecurity portfolio.
 
-I am an aspiring Junior SOC Analyst with hands-on experience investigating Windows authentication events and suspicious emails using Splunk and email header analysis.
+I am an aspiring SOC (Security Operations Center) Analyst with hands-on experience in Windows event log analysis, email investigations, and Splunk.
+
+This repository contains practical investigations completed using public datasets and real-world security scenarios.
 
 ---
 
@@ -16,14 +18,14 @@ I am an aspiring Junior SOC Analyst with hands-on experience investigating Windo
 ## Skills
 
 - Splunk Enterprise
-- Windows Event Logs
-- Security Monitoring
 - SIEM Investigation
+- Windows Event Logs
 - Email Header Analysis
-- SPF / DKIM / DMARC Validation
-- Threat Detection
-- Digital Forensics Fundamentals
 - Incident Documentation
+- SPL Queries
+- Security Monitoring
+- Log Analysis
+- Authentication Analysis
 
 ---
 
@@ -31,43 +33,36 @@ I am an aspiring Junior SOC Analyst with hands-on experience investigating Windo
 
 ### SOC-001: Windows Authentication Investigation
 
-- Established an authentication baseline
-- Investigated successful and failed logons
-- Analyzed Windows Security Event IDs 4624 and 4625
-- Documented findings with screenshots and SPL queries
+**Objective**
 
-📁 Folder:
-`SOC-001-Windows-Authentication`
+Analyze Windows authentication logs to establish a baseline of successful and failed logon events.
+
+Skills demonstrated
+
+- Windows Event Logs
+- Event ID 4624
+- Event ID 4625
+- SPL Queries
+- Log Analysis
+- Investigation Reporting
 
 ---
 
 ### SOC-002: Suspicious Email Investigation
 
-- Investigated a suspicious recruitment email
-- Validated SPF, DKIM and DMARC
-- Reviewed email headers and message content
-- Determined the email was legitimate
+**Objective**
 
-📁 Folder:
-`SOC-002-Suspicious-Email-Investigation`
+Analyze a suspicious recruitment email by examining the email headers, authentication results, sender information, and message content.
 
----
+Skills demonstrated
 
-## Tools
-
-- Splunk Enterprise
-- Windows Event Viewer
-- Google Admin Toolbox Messageheader
-- TryHackMe
+- Email Header Analysis
+- SPF
+- DKIM
+- DMARC
+- Email Security
+- Investigation Reporting
 
 ---
 
-## Contact
-
-**LinkedIn**
-
-www.linkedin.com/in/matome-confidence-453571341
-
-**Email**
-
-matjokotjamatome0@gmail.com
+More investigations will be added as I continue building practical SOC experience.
