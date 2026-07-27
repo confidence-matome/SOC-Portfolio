@@ -1,1 +1,30 @@
 
+From: Mantra Falcon
+To: xmarksthespot@gmail.com
+Subject: Sr. AI Engineer opening
+Date: Wed, 6 Aug 2025 17:53:06 -0400 (EDT)
+
+Return-Path: [redacted]
+
+Received:
+from [10].[90].[23].[234]
+by sparkpost
+Wed, 06 Aug 2025 21:53:07 +0000
+
+Message-ID:
+<955445473...[redacted]>
+
+Authentication Results
+
+SPF: PASS
+DKIM: PASS
+DMARC: PASS
+
+DKIM Domain:
+talent.terrigenisis.com
+
+Reply-To:
+Mantra Falcon
+
+Content-Type:
+multipart/alternative
