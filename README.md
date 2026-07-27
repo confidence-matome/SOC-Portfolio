@@ -1,54 +1,73 @@
-# SOC Investigation Portfolio
+# SOC Analyst Portfolio
 
-Welcome to my Security Operations Center (SOC) portfolio. This repository showcases hands-on security investigations completed using public datasets and industry-standard tools. Each case demonstrates my approach to analyzing security events, documenting evidence, and producing professional investigation reports.
+Welcome to my cybersecurity portfolio.
 
----
-
-## 👨‍💻 About Me
-
-I am an aspiring **Junior Cyber Security Analyst** with hands-on experience investigating Windows authentication events and suspicious emails using industry-standard techniques. I hold the **CompTIA Security+ (SY0-701)** certification and have completed the **TryHackMe SOC Level 1** learning path.
-
-My goal is to continue developing practical SOC skills through evidence-based investigations and security documentation.
+I am an aspiring Junior SOC Analyst with hands-on experience investigating Windows authentication events and suspicious emails using Splunk and email header analysis.
 
 ---
 
-## 🛠 Technical Skills
-
-- Splunk Enterprise
-- Windows Event Log Analysis
-- Email Header Analysis
-- SPF, DKIM & DMARC Validation
-- Security Event Investigation
-- Threat Detection
-- Indicator of Compromise (IOC) Identification
-- Security Documentation
-- Network Security Fundamentals
-- Python
-
----
-
-## 📁 SOC Investigation Cases
-
-| Case | Investigation | Status |
-|------|---------------|--------|
-| SOC-001 | Windows Authentication Investigation | ✅ Completed |
-| SOC-002 | Suspicious Email Investigation | ✅ Completed |
-| SOC-003 | Coming Soon | 🚧 |
-
----
-
-## 🎯 Certifications
+## Certifications
 
 - CompTIA Security+ (SY0-701)
 - TryHackMe SOC Level 1
 
 ---
 
-## 📫 Connect With Me
+## Skills
 
-- **LinkedIn:** *www.linkedin.com/in/matome-confidence-453571341*
-- **Email:** matjokotjamatome0@gmail.com
+- Splunk Enterprise
+- Windows Event Logs
+- Security Monitoring
+- SIEM Investigation
+- Email Header Analysis
+- SPF / DKIM / DMARC Validation
+- Threat Detection
+- Digital Forensics Fundamentals
+- Incident Documentation
 
 ---
 
-> This portfolio is continuously updated as I complete new security investigations and expand my hands-on cybersecurity experience.
+## Investigations
+
+### SOC-001: Windows Authentication Investigation
+
+- Established an authentication baseline
+- Investigated successful and failed logons
+- Analyzed Windows Security Event IDs 4624 and 4625
+- Documented findings with screenshots and SPL queries
+
+📁 Folder:
+`SOC-001-Windows-Authentication`
+
+---
+
+### SOC-002: Suspicious Email Investigation
+
+- Investigated a suspicious recruitment email
+- Validated SPF, DKIM and DMARC
+- Reviewed email headers and message content
+- Determined the email was legitimate
+
+📁 Folder:
+`SOC-002-Suspicious-Email-Investigation`
+
+---
+
+## Tools
+
+- Splunk Enterprise
+- Windows Event Viewer
+- Google Admin Toolbox Messageheader
+- TryHackMe
+
+---
+
+## Contact
+
+**LinkedIn**
+
+www.linkedin.com/in/matome-confidence-453571341
+
+**Email**
+
+matjokotjamatome0@gmail.com
